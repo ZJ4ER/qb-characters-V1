@@ -26,6 +26,8 @@ Features:
 
 ⚡ Ready to use immediately after installation.
 
+Discord : https://discord.gg/DmpfbpmRbK
+
 <img width="1920" height="979" alt="image" src="https://github.com/user-attachments/assets/d5535c79-0d3f-421b-b6fa-a8cadff9c3b1" />
 
 <img width="1920" height="979" alt="image" src="https://github.com/user-attachments/assets/08e3f791-b01a-4eb4-9288-58cc16f353ad" />
